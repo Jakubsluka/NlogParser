@@ -1,0 +1,22 @@
+[
+  {
+    "PlaceHolderName": "message",
+    "LinePropertyName": "LineMessage"
+
+  },
+  {
+    "PlaceHolderName": "level",
+    "LinePropertyName": "LineLevel"
+
+  },
+  {
+    "PlaceHolderName": "date",
+    "LinePropertyName": "LineDate"
+
+  },
+  {
+    "PlaceHolderName": "logger",
+    "LinePropertyName": "Logger"
+
+  }
+]
